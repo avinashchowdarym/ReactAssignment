@@ -1,0 +1,9 @@
+.gallery {
+  display: grid;
+}
+.img {
+  max-width: 80px;
+  display: inline-block;
+  width: 30%;
+  padding: 10px 10px;
+}
